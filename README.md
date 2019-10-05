@@ -2,9 +2,8 @@
 
 Entrega trabalho Flex Aula compiladores
 
-## Installation
-Rodar o projeto 
-
+## Rodar o projeto
+ 
 ```bash
 Abrir Jflex.jar
 Selecionar arquivo flex_entrega\lexical.flex
@@ -17,6 +16,6 @@ No terminal serão listados os tokens com as informações
 ```
 
 ## Integrantes
-Matheus Benka
-Nikolas Cardoso
+Matheus Benka  
+Nikolas Cardoso  
 Lucas Ibarra
